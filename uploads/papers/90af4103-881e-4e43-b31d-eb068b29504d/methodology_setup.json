@@ -1,0 +1,8 @@
+[
+  {
+    "EEG Recording Setup": "Continuous EEG from 21 subjects watching four film excerpts. Electrodes placed via 10-20 system, recording neural activity during viewing to analyze responses to editing cuts.",
+    "Stimuli Selection Criteria": "Film excerpts chosen for diversity in style, pacing, and aesthetics, focusing on continuity cuts within narrative units to isolate editing effects from content.",
+    "Signal Processing Methods": "EEG signals processed into 2-second windows around cuts, averaged per film (ASF) and per cut type (ASC), then transformed into frequency bands for analysis.",
+    "Statistical Analysis Approach": "Used Spearman correlation and permutation tests on ASFs to find common neural patterns, then Kruskal-Wallis and Tukey-Kramer tests on ASCs to detect cut-type variations."
+  }
+]

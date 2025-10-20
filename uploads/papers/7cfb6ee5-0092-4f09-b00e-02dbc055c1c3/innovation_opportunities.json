@@ -1,0 +1,13 @@
+{
+  "limitation_breakthrough": "Develop a closed-loop neurostimulation system that uses real-time fNIRS/EEG feedback to dynamically adjust TMS parameters, moving beyond static stimulation to adaptively target DLPFC based on moment-to-moment conflict processing states.",
+  "methodological_improvement": "Implement high-density EEG with source localization to precisely map the temporal dynamics of sensory cortex modulation, overcoming the spatial limitations of 12-channel EEG while maintaining the temporal resolution needed to track rapid conflict adaptation processes.",
+  "application_expansion": "Apply the multimodal TMS-fNIRS-EEG approach to clinical populations with known DLPFC dysfunction, such as ADHD or schizophrenia, to investigate whether impaired conflict adaptation stems from deficient sensory distractor suppression and test therapeutic stimulation protocols.",
+  "open_insight_1": {
+    "title": "Developing Individualized Cognitive Control Profiles",
+    "description": "Create personalized cognitive control models by integrating behavioral Gratton effects, DLPFC activation patterns, and sensory modulation signatures to predict individual differences in conflict resolution ability and susceptibility to distraction across sensory modalities."
+  },
+  "open_insight_2": {
+    "title": "Building Cross-Modal Conflict Prediction Systems",
+    "description": "Develop machine learning algorithms that use early sensory cortex activity patterns (N170 amplitudes, auditory cortex suppression) to predict subsequent conflict resolution success, enabling proactive cognitive control interventions before behavioral errors occur."
+  }
+}

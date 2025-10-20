@@ -1,0 +1,9 @@
+[
+  {
+    "Participant Recruitment": "Thirty-one healthy right-handed German students (18-31 years) were recruited. Exclusion criteria included contraindications for TMS, neurological/psychiatric disorders, and conditions affecting cerebral metabolism.",
+    "Experimental Design": "A within-subjects cross-over design with two sessions (verum/sham cTBS over right DLPFC) two weeks apart. Order was counterbalanced and double-blinded, with fNIRS/EEG recorded during a facial Stroop task.",
+    "Stroop Task Paradigm": "A modified facial Stroop task with congruent/incongruent trials using famous actors/politicians. Auditory names and visual faces were presented with specific SOAs to balance interference effects across modalities.",
+    "Neurostimulation Protocol": "Continuous theta-burst stimulation (cTBS) at 80% motor threshold was applied to right DLPFC for 40s (600 pulses). Verum/placebo conditions used a double-blind active-passive coil system.",
+    "Data Acquisition Methods": "fNIRS (52 channels) measured prefrontal oxygenation, while 12-channel EEG recorded N170 components. Behavioral data, questionnaires, and neurophysiological measures were analyzed with GLM and ANOVA."
+  }
+]

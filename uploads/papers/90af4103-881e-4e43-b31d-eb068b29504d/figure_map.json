@@ -1,0 +1,37 @@
+{
+  "Context & Related Work": [],
+  "Methodology & Setup": [
+    {
+      "figure_id": "13edd53bea4cb787c391506a34deaba7d04361063b55725aff828f55f81a5335",
+      "figure_caption": "FIGURE 1 Placement of electrodes used according to the international 10-20 electrode placement system and the modified combinatorial nomenclature. ",
+      "reference_text": [
+        "In order to record the electroencephalogram, 31 electrodes were placed as indicated in Figure 1"
+      ]
+    },
+    {
+      "figure_id": "b2d1a2524832ffe64d7792c98859813aeb9401c3af2515f18edf67a0e467a47a",
+      "figure_caption": "TABLE 1 Technical-aesthetic differences between film excerpts. ",
+      "reference_text": [
+        "The film excerpts were chosen based on a series of selection criteria in addition to the language (more detail in Table 1)"
+      ]
+    },
+    {
+      "figure_id": "1b38ba9a1c5d75bf60d2ab5d49967b228868d781752a02afd334759750a0fa15",
+      "figure_caption": "TABLE 2 Taxonomy for cuts grouped in G1 and in G2. ",
+      "reference_text": [
+        "Table 2 shows the different categories established for G1 and G2",
+        "To identify the variations, a Kruskal-Wallis analysis of variance (significance threshold: $p<0.05)$ ) was performed together with a Tukey-Kramer multiple comparison test (significance threshold: $p<0.05)$ , taking the type of shot change as a comparison condition (see Table 2)"
+      ]
+    }
+  ],
+  "Results & Analysis": [
+    {
+      "figure_id": "202485becdda290a3c23852752edbbcfdc40b3822b43b43720e3a1d7ae9879a5",
+      "figure_caption": "TABLE 3 Electrodes that are differentiated with taxonomies grouped by shot scale variation. ",
+      "reference_text": [
+        "Table 3 shows the new reorganization based on the results obtained from the TukeyKramer multiple comparison test"
+      ]
+    }
+  ],
+  "Conclusion": []
+}

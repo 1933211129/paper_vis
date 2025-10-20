@@ -1,0 +1,767 @@
+[
+    {
+        "type": "text",
+        "text": "OPEN ACCESS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EDITED BY   \nCelia Andreu-Sánchez,   \nAutonomous University of Barcelona, Spain   \nREVIEWED BY   \nJosé M. Delgado-García,   \nUniversidad Pablo de Olavide, Spain   \nZhengcao Cao,   \nBeijing Normal University, China   \nSandra Malpica,   \nUniversity of Zaragoza, Spain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*CORRESPONDENCE Javier Sanz-Aznar javier.sanz@ub.edu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RECEIVED 01 September 2024   \nACCEPTED 02 June 2025   \nPUBLISHED 03 July 2025 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CITATION   \nSanz-Aznar J (2025) An exploration of the editing cut as an articulator in film through frequency domain analysis of spectator EEGs.   \nFront. Neurosci. 19:1489800.   \ndoi: 10.3389/fnins.2025.1489800 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "COPYRIGHT",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2025 Sanz-Aznar. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An exploration of the editing cut as an articulator in film through frequency domain analysis of spectator EEGs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Javier Sanz-Aznar\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Section of Communication, Department of Hispanic Studies, Literary Theory and Communication, University of Barcelona, Barcelona, Spain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction: This study explores if the cinematographic cut can be considered an articulation axis between different units, which are adjacent shots. The theoretical premise of the research was that if the shot change functions as a point of articulation that produces a connection between different units, two conditions must be met: first, all types of editing cuts should elicit common neural patterns; and second, these neural patterns triggered to make sense of the shot change should exhibit variations depending on the specific type of cut. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods: To achieve this objective, building on the theoretical foundations of cinematographic language and integrating methodologies from cognitive neuroscience, the study analyzed neural responses triggered by continuity editing cuts through electroencephalography recordings from 21 participants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: To determine it, the frequency domain of spectators’ neural recordings were analyzed for common event-related desynchronization/synchronization patterns. The analysis revealed neural responses patterns in theta synchronization and delta desynchronization, which are associated with memory encoding, narrative segmentation, and meaning construction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Discussion: Moreover, the results suggests that shot changes are cognitively processed as relational events, not merely as new perceptual inputs. These findings support the hypothesis that the shot change by cut is neurally processed as an articulatory mechanism within film structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "film, editing, ERD/ERS, EEG, cut, cinema, neurocinematics, cinematographic language ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The analysis of the shot change by cut is approached from a cognitive ecological perspective (Anderson, 1996) has gained increasing attention in the last years (Ben-Yakov and Henson, 2018; Bálint et al., 2020; Loschky et al., 2020). This approach emphasizes how the cognitive gap of the shot change is naturally —and even imperceptibly— assimilated narratively by the spectators. This approach to studying film editing, which includes experimental techniques that allow for the validation or refutation of specific proposals, predominantly addresses two fundamental aspects. The first consists of studying how cinematographic technique allows the cut to go unnoticed by the viewer’s consciousness (Smith and Henderson, 2008), and the second focuses on how the fragmentation into different shots is understood by the viewer, taking the set of shots as a unit through narrative integration and the comprehension of fragmented events as a single continuous entity (Loschky et al., 2020). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main study about the feel of continuity in the viewer despite a shot change was developed by Tim Smith (Smith and Henderson, 2008; Smith, 2005; Smith, 2012; Smith, 2013), which gave rise to the Attentional Theory of Cinematic Continuity (AToCC). This proposal, developed in various publications by Smith, addresses how classical rules of film editing match with natural attentional cues such as conversational turns, motion continuity or gaze cues. The combination of these kinds of attentional cues around the cut matching minimal expectations creates the sensation of invisibility of the cut in the viewer, facilitating an uninterrupted virtuality in which to develop the film narrative. The AToCC helps to understand how the technicalnarrative device of film editing enables the development of a continuous narrative despite its construction being inherently fragmented. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Regarding the assimilation of the film’s narrative content by the spectator despite the fragmentation by cuts, it is of particular interest the Scene Perception and Event Comprehension Theory (SPECT) applied to visual narratives (Loschky et al., 2020). Through the Event Indexing Model (Magliano et al., 2001) and the Event Comprehension Theory applied to visual narratives (Loschky et al., 2020), an explanation emerges about how viewers generate cognitive models while watching a movie, thus being able to assimilate the narrative continuously. These mental models linked to the narrative are continuously updated by identifying changes in the story entities and the event models. For the detection of these variations, a constant evaluation and comparison occur between schemas and processes (Bordwell, 1991; Tan, 2018) top-down (for the understanding of the scene) and bottom-up (defining the characteristics of the stimulus). For this constant flow to develop normally, it is necessary for a smooth progression of events to occur throughout the narrative, enhancing the absorption experience during the viewing of the film, especially when cuts appear that hinder bottom-up processes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to the proposal of the SPECT applied to visual narratives (Loschky et al., 2020), the shot change can break temporal and spatial coherence, requiring a reconstruction of the event model through bridging inferences, connecting information from previous events with the new ones. On the one hand, the perception of events in a visual narrative is segmented through cuts that mark clear boundaries between distinct events. This situation occurs, for example, in changes in space, time, or the characters’ objectives, creating event boundaries that clearly segment the narrative. Thus, the cut transition facilitates the shift between event models, as the cuts emphasize the discontinuities between events and allow the viewer to adjust their understanding of the story. On the other hand, editing has the capacity to organize the information associated with events in such a way that the viewer can construct a unique model through its segmentation into various shots. Therefore, the cut not only separates the events but also helps to structure the perception of the action and the narrative, allowing the spectator to integrate the new aspects while maintaining the coherence of the narration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although both AToCC and SPECT offer compelling models for understanding the perceptual and cognitive integration of cuts, they do not directly address the possibility that cuts function as articulatory units in a syntactic sense. These frameworks describe how continuity is achieved and how narrative cohesion is maintained, but they stop short of examining whether the cut itself may trigger recurrent neural mechanisms associated with segmentation or articulation. The approach of the cut as articulation contains the technical need for invisibility for the viewer and narrative integration as a necessity, both conditions consistent with previous studies from cognitive ecology. But it also aims to differentiate the most appropriate form of shot transition for the same event to be represented among all the possible ones that meet these two cognitive premises. Facing the same staging, countless possible shot combinations appear that will fulfill the premises defined by the AToCC and the SPECT; however, these combinations will produce different effects on the viewer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date, there are some experiments in this direction, analyzing how the shot change by cut affects the viewer depending on the shot scale (Cutting and Armstrong, 2016; Benini et al., 2019; Bálint et al., 2020). The use of different shot scales affects the mood conveyed to the viewers and their level of narrative engagement (Benini et al., 2019). Close-ups increase narrative engagement, character understanding, and emotional connection, while long shots decrease emotional engagement but improve narrative understanding by providing a broader spatial context. On the other hand, the transition between different types of shots in a cut has a greater impact on the viewer’s mood than maintaining the same type of shot during a cut. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Closer shots facilitate quicker identification of emotions, making them more suitable for episodes with high emotional intensity, optimizing the narrative according to the cognitive abilities of the viewers (Cutting and Armstrong, 2016). Consequently of this faster emotional discernment, close-ups tend to be shorter in duration than other shot scales where the face is smaller within the frame. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Close-up shots favor mental state attribution mechanics, which allow viewers to attribute mental states to the characters. However, this relationship is not linear, as the effectiveness of attribution does not increase consistently in the viewer as its frequency in the film increases (Bálint et al., 2020). The impact of this technical resource has a saturation limit point in the chaining of three closeup shots, resulting in its effect diminishing beyond this frequency. This condition implies that the excessive use of close-up shots can be counterproductive, even diluting their ability to generate an emotional connection between the spectator and the characters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The different ways of designing the change of shot based on scale (Cutting and Armstrong, 2016; Benini et al., 2019; Bálint et al., 2020), as shown in previous studies, support the existence of an optimal articulation, which responds to structures inherent to the cinematographic medium and is defined through editing strategies and techniques. These studies demonstrate how the same event, depending on how the shots combination is articulated, can produce clearly differentiated effects on the spectator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Building on this idea, the need to analyze how shots are structured within a cut invites a reconsideration of classical theories about the existence of a cinematographic language. Beyond the pursuit of invisibility in the cut and the seamless narrative integration of shots —both fundamental aspects of normative editing—it is essential to refine the understanding of how variations in other technical elements of film editing directly shape the spectator’s experience. These considerations, along with techniques to achieve invisibility and narrative coherence, have been extensively documented in editing manuals and essays, from foundational works (Eisenstein and Leyda, 1942; Bazin, 1958; Reisz and Millar, 1971; Dmytryk, 1984; Oudart, 2005/1969) to more contemporary works (Murch, 1995; Amiel, 2001; Marimón, 2015; Hullfish, 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this context, the present study aims to examine whether shot changes in continuity editing elicit neural responses that could support the hypothesis that editing functions as an articulatory mechanism. The goal is not to demonstrate that cinema constitutes a language in the strict sense, but rather to explore whether the cinematic cut fulfills articulatory functions associated with natural languages. Based on the theoretical proposition that editing connects different audiovisual units with meaning (Mitry, 1965), it is proposed that this function should be observable through recurrent neural dynamics, particularly in frequency bands associated with memory integration, temporal segmentation, and meaning construction (Klimesch, 1999; Ben-Yakov and Henson, 2018). Although the study does not claim that editing is equivalent to verbal language, it adopts an experimental hypothesis to test whether neural responses reflect a syntax-like articulation within the structure of the film. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 Cinema as language ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Practically since its inception, film studies has been exploring the nature of the shot change as an articulator, comparing it to the syntax of language (Shklovsky, 1971/1928; Eisenstein, 1977/1949). The earliest examples of this comparison can be found in assertions by filmmaker and film theorist Eisenstein, who stated that “montage is a syntax for the correct construction of each particle of a film fragment” (Eisenstein, 1977/1949, p. 111) or by film theorist, literary theorist and pioneer of Russian formalism Shklovsky, who argued that “montage is the syntax and etymology of the cinematic language” (Shklovsky, 1971/1928, p. 124). This idea of syntax responds to the organizing principle that gives meaning to moving images and relates them on a narrative, symbolic and emotional level. According to Eisenstein (1977/1949), cinematographic syntax is a dialectical process that links individual shots in a relationship that goes beyond simple narrative continuity, where the relationship between shots generates new meanings, operating as the equivalent of phrases and sentences in verbal language, but through editing. Shklovsky (1971/1928), for his part, argues that cinematographic syntax enhances the very form of cinema by foregrounding its technical elements—such as editing, framing, and rhythm—as carriers of meaning. In this way, cinema differs from the spectator’s usual perception of real events, modifying it in a process described as defamiliarization (ostranenie). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The theoretical proposal about the existence of an cinematographic language put forward by the Soviet formalists reached its peak development in the 1960s, when the film theorist and filmmaker Mitry and the pioneer of film semiotics Metz led a debate over how the cinematographic message is articulated. Both Mitry (1965) and Metz (1968) argued that cinema is a medium of expression that can convey emotions, and that it therefore has the capacity to create meaning for the receiver. Based on this capacity, both scholars asserted that film is semiotic in nature. Both ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mitry and Metz stated that cinema responds to its own codes and conventions that can be systematically analyzed, defending the existence of a film grammar. However, it was on the nature of the medium of expression that the two theorists disagreed. While Mitry (1965) argued for the existence of a uniquely cinematographic language in which the cut represents the connection between units, Metz (1968), based on his ontological proposal of cinema dismissed the idea that the medium has a language of its own (defining it as a semiotic system), thereby rejecting the possibility proposed by Mitry (1965). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Metz (1968) adopts a semiological approach, influenced by structuralism and the theories of Ferdinand de Saussure and Roland Barthes. He is interested in cinema as a language, although he emphasizes that it cannot be considered a language in the strict sense. According to Metz, cinema is a system of signification based on codes that shares similarities with linguistic systems, but without being able to consider it a language. Metz classifies the different types of technical-narrative structures that appear in cinema, which he calls grand syntagmas. This classification attempts to describe how cinema organizes meaning, systematizing the narrative organization patterns that frequently appear in films. The syntagmas essentially reflect the relationships between shots through cinematographic editing and how these relationships contribute to the development of the narrative and the viewer’s perception of it. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Metz (1968), although identifies elements such as editing or camera movements as components of a film grammar, he describes the film medium as the outcome of the articulation of a set of devices that are relatively autonomous and absolutely essential. The direct consequence of this idea is that cinema cannot possibly have a signifying power of its own. Metz therefore denies the existence of minimal units of cinematographic meaning, and thus dismisses the possibility of a cinematographic language. The acceptance of this ontological hypothesis has epistemological consequences, as film analysis should be conducted by breaking the film up, not into inherently cinematographic elements such as shots, but according to the units that characterize the different independent signifiers that are articulated together. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For Mitry (1965), cinematographic language is unique because its meaning does not depend on an arbitrary relationship between signifier and signified, which makes cinema more intuitive and less dependent on abstract conventions. His interest lies in how cinema structures the spectator’s perception. Their analysis focuses on exploring the relationship between cinematic images and the viewer’s emotional or intellectual response. For Mitry, editing articulate the cinematic units of meaning and endowing them with significance while respecting the phenomenological experience of time. In this sense, editing acts as the main organizer of meaning in a film. It is through editing that images acquire meaning. The articulation between shots in editing refers to how different shots are organized, combined, and related in a cinematic sequence to construct a narrative, aesthetic, and emotional meaning. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mitry (1965) positions his theoretical stance in opposition to Metz’s, as he considers that cinema in itself is an autonomous semiotic device and not an articulation of devices.1 He argues that all of the elements participating in the cinematographic device generate inseparable units without losing their ultimate meaning, and that therefore the signifier perceived by the spectator is unique to the cinematographic means of expression. In view of the existence of a unique signifier, Mitry (1965) concludes that a specifically cinematographic language does in fact exist. Therefore, by adopting Mitry’s perspective to conduct an analysis of a film, it can be divided into units of cinematographic language, such as the shot, taking all the parts that comprise it as a cohesive whole that generates a unique meaning, rather than as different independent signifiers that are joined together. The articulation of these minimal units of meaning through editing was what he defined as film grammar. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This debate has given rise to two completely irreconcilable positions in film theory that have continued to develop in parallel with each other with no prospect of a resolution. With the passage of time, beyond clarifying the debate, the position rejecting the existence of a cinematographic language has diversified to include stances such as those of Rivette (1951), Straub and Huillet (1984), Oubiña (2003) and Deleuze (1985), some of whom even dismiss the idea of cinema as the result of the articulation of different autonomous languages. On the other side of the argument, filmmakers such as Pasolini (1976), Egoyan (quoted in Tirard, 2005) and Wenders (2010), and theorists such as Bettetini (1963), Eco (1976), Martin (1955), Stam et al. (2005) and Bordwell et al. (1997) continue to support the theory that cinema is a language of its own, taking various perspectives that differ mainly in terms of their ontological definition of the smallest unit of cinematographic language. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to Burch (1969), cinema is a system of signs that are articulated in a way comparable to a language. This articulation occurs through specific codes, such as editing, mise-en-scène, and sound. Burch’s proposal consists of defining cinema as a system of signs and cultural conventions that are learned and interpreted by the spectators. Therefore, the understanding of the film depends on a process of cultural learning, based on which viewers acquire the ability to interpret the meanings of cinematographic language according to their familiarity with the specific codes of the medium. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Burch (1969) proposed that, the smallest unit is the shot, which he defines as “pieces of space and time” based on which the narration is articulated. This is an idea that Bazin developed when he included the sequence shot in his theoretical framework, distinguishing the physical shot, which is a fragment of film between two cuts, from a more abstract conception of shot, to which he attributed the power to construct cinematographic language, and which he labeled the image-fact. Bazin identified the image-fact, defined as a relationship between terms in a specific period of time, to be the basic unit of a film. Mitry (1987) also considered shots that contain internal variations, defining a tracking shot as a series of units in a continuous filming sequence without cuts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are similarities to Bazin’s idea of the image-fact and Mitry’s series of units without cuts in the work of Arnheim (1932) and Kracauer (1960), who defined the frame as the smallest unit of meaning (frame as section of the shot with common conditions, different from frame as digital photogram). This would mean that a change of frame constitutes a transition to a new minimal unit. Bellour (1989) defines something similar when he suggests that the physical shot (the stretch of film contained between two cuts), which he refers to as a segment, may contain one or more subsegments in succession without the need of editing. The shot taken as a frame, image-fact or subsegment is defined by a formal variation that is not necessarily produced by an editing cut; instead, it is the product of a technical differentiation that gives rise to a meaningful change in the visual configuration of what is being depicted. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to Bellour (2009), cinema articulates meanings through a set of visual, auditory, and narrative codes, integrated into a logic of representation and reading. This articulation occurs in the editing, as it allows for the organization of images and sounds in a sequence that constructs meaning. This organization follows certain cultural and structural rules, which makes cinema a system of signs comparable to a language. Bellour proposed that cinematic techniques such as cuts, camera movements, and transitions act as a grammar that regulates the viewer’s experience. In this model, the viewer not only perceives the filmed event but also interprets the signs of the film according to the implicit rules of the medium. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition to these strategies for dividing the shot in an effort to dissect a film into its smallest units of meaning is the theory proposed by Eco (1976) and Pasolini (1976), who identify the smallest unit of cinematographic meaning as what they call the cinema. According to Eco and Pasolini, the cinema, which constitutes the smallest, indivisible meaningful unit of audiovisual language, is defined by a variation in the meaning of the shot itself that does not necessarily coincide with a shot change or subsegment. Eco’s proposal is based on the fact that cinema is a semiotic medium that operates through a set of visual, auditory, and narrative signs that are articulated based on cultural codes and narrative conventions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All of these ontological structures based on the acceptance of the idea of a cinematographic language, regardless of the specific theory adopted to determine what the smallest units of meaning are in the film medium, have the common feature of recognizing the shot change by cut as the site of a shift between contiguous units with different meanings. This means that the cut event is a physically identifiable transition that could be the subject of a neuroscientific experiment in a clearly defined timeframe to test the spectator’s perception of the cut. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 Purpose and objectives ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The study of cinema, since its origins, has analyzed the articulative nature of the shot change. The peak of this discussion occurred in the 1960s, when the debate arose over whether this quality allowed this articulation to be described as a language. This capacity attributed to the cut in terms of film construction ultimately refers to the very ontology of cinema, proving essential for its definition. This aspect was considered so clear that in the 1920s, cinematic movements emerged that regarded editing as the core characteristic that distinguished cinema from other artistic disciplines, giving rise to radical aesthetic movements such as abstract cinema (Léger and Murphy, 1924) or cinema pur (Chomette, 1926). These movements sought to articulate films purely through the editing of moving images, even going so far as to reject the very narration traditionally associated with the filmed event. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Therefore, it is considered that, in order to address the cinematographic ontology of film from the perspective of cognitive ecologism, it is necessary to address, in addition to those strategies that allow for the creation of a continuous virtuality (Smith, 2012) and a narrative integration of fragmented events (Loschky et al., 2020), an understanding of the articulation that occurs in the shot change by cut. Therefore, it is important to establish as a starting point the ongoing discussion about whether or not the existence of a cinematographic language can be considered. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Addressing the possible existence of a cinematographic language is a complex and overly ambitious endeavor for a single study. However, a manageable objective is to focus the analysis on the potential articulatory function of the shot change by cut in the photogrammatic construction. Therefore, the purpose of this study is to analyze the articulating role of the shot change by cut in cinematographic editing by identifying cognitive patterns in neural responses recorded through electroencephalograms (EEGs) of spectators while they are viewing such editing cuts. If the experiment identifies no neurological patterns associated with the articulating capacity of the cut, this would mean that these mechanisms should not be looked for in specifically cinematographic elements (such as, in this case, the cut) but in other independent signifiers that articulate the message. That is to say, while the presence of such neural response patterns would not resolve the debate about the existence of a cinematographic language, the absence of evidence defining the cut as an articulator would indeed support the stance that refutes its existence. Therefore, it is considered that the present study is a first step toward a possible series of studies that could outline a naturalisticcognitive cinematographic ontology, taking as a theoretical starting point the classical perspective established by the debate on the possible existence of a cinematographic language. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To be able to define the shot change by cut as a cinematographic articulation, two conditions must be met. The first condition is that all the cuts must be perceived according to a common pattern of neural responses to the shot change, revealing specific mechanisms related to the comprehension and assimilation of the cut. The second condition is that each type of cut should produce specific variations in the neural patterns identified, in accordance with their particular taxonomic characteristics. It means that, once the neural reaction pattern triggered by the shot change event is identified based on all cuts collectively, it is expected that grouping the cuts by predefined typologies would reveal differences in the neural signals. These differences should specifically emerge in the regions of the neural response previously recognized as activated by the shot change event (based on all cuts collectively). The shot change by cut can only be considered an articulator of the film narration if the study identifies common patterns in the neural responses to the cut event and at the same time these patterns exhibit differences depending on the types of cuts. The study involves an EEG frequency domain analysis, focusing specifically on eventrelated desynchronization/synchronization (ERD/ERS). Frequency domain analysis has been shown to be effective in previous research for clarifying how the shot change by cut functions (Heimann et al., 2016). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This article represents the culmination of a series of publications that compile partial conclusions and address specific objectives of the research. The initial publications detail the analysis methodology employed, which differs from the conventional ERD/ERS analysis system (Sanz-Aznar et al., 2020a,b). The subsequent publication identifies common patterns in response to cuts through the study of ERD/ERS (Sanz-Aznar et al., 2021). Finally, the last publication examines the differential patterns associated with specific types of cuts using ERD/ERS analysis (Sanz-Aznar et al., 2023a). This last publication is complemented by an additional publication that reinforces the findings by analyzing neural patterns resulting from different cut types through an alternative methodology, specifically event-related potentials (2023b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This article consolidates the specific objectives progressively addressed and integrates the entire process under the general objective of analyzing the cut as an articulating element from the perspective of a potential cinematic language. The study is based on the theoretical cinematographic framework that inspired the research and frames the discussion and conclusions within this context and perspective. This research developed is characterized by a markedly interdisciplinary approach, from a cognitive neuroscience perspective inspired by the debates of classical film theory on cinematic language. It does not aim to resolve the ontological question of whether cinema is a language in the linguistic sense, but rather to investigate whether editing cuts function as meaningful articulators of audiovisual structure, detectable through neural patterns. In this context, ERD/ERS analysis is used here to evaluate time-frequency brain dynamics in reaction to segmentation events. ERD/ERS analysis is used to evaluate time-frequency brain dynamics in reaction to segmentation events. Theta and delta band synchronization and desynchronization patterns have been linked to narrative segmentation, working memory engagement, and perceptual transitions (Silva et al., 2019), providing a suitable framework for testing whether different types of cuts elicit systematic and differentiated neural responses (Heimann et al., 2016; AndreuSánchez et al., 2018). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experimental process involved taking EEG recordings of film spectators while they were viewing film excerpts, and then processing and analyzing the frequency domain signal in order to identify neural response patterns common to the shot change by cut event, while at the same time detecting differences in these common patterns related to the specific type of cut. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 Recording and processing the signal ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experiment provides continuous EEG recordings of 21 participating subjects (12 men and 9 women) while they were watching four different film excerpts. The subjects were between 22 and 38 years of age and reported no cognitive or psychological disorders. The mean age of the participants is 26.28 with a standard deviation of 3.74 and the mode is 27. The experiment was conducted at the Augmented Cognition Lab at Aalborg University, whereby the participants were mainly from this university background. The participants did not receive any financial reward for their participation, but were given a cinema ticket as a thank you. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/13edd53bea4cb787c391506a34deaba7d04361063b55725aff828f55f81a5335.jpg",
+        "img_caption": [
+            "FIGURE 1 Placement of electrodes used according to the international 10-20 electrode placement system and the modified combinatorial nomenclature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The excerpts selected for this study were taken from the films Bonnie and Clyde (Penn, 1967), The Searchers (Ford, 1956), Whiplash (Chazelle, 2014), and On the Waterfront (Kazan, 1954). A post-experiment questionnaire asked participants which of the films they had previously seen in order to gauge their level of exposure to the film excerpts. Eleven of the 21 participants said they had never seen before any of the four films included in the study, while 10 said they had seen at least one. Bonnie and Clyde was the most frequently recognized title (seen by 9 participants), followed by Whiplash (6 participants), On the Waterfront (2 participants), and The Searchers (1 participant). Prior familiarity was relatively limited and dispersed, and no participant reported familiarity with all four clips. Additionally, no correlation was observed between familiarity and EEG patterns in a preliminary inspection, although future studies could explore this systematically. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to record the electroencephalogram, 31 electrodes were placed as indicated in Figure 1. The amplifiers devices were two channel box g.Tec g.Gammabox (16 channels each one) connected to two biological amplifiers g.Tec g.USB Amp. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since the experiments were conducted in the Augmented Cognition Lab at Aalborg University, the participants were drawn mainly from the university itself, with a predominance of international students fluent in English. Due to these conditions, the film footage chosen for the experiment was original footage in English, with no subtitles that might have affected perception (Perego et al., 2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the study, film excerpt was taken from pre-existing films, considering it relevant, whenever possible, to analyze real films instead of clips prepared for the experiment. The film excerpts were chosen based on a series of selection criteria in addition to the language (more detail in Table 1). The excerpts selected belong to feature-length fiction films and all conform to the institutional mode of representation (IMR) defined by Burch (1991). At the same time, varied excerpts were sought, from different styles and aesthetics, as well as belonging to different structural moments of the film (first, second or third act, presentation of characters, conflict, etc.). Moreover, cinematographic language, if it does exist, is also shaped by the physical and technical possibility of adding a synchronous soundtrack to the film (Bordwell and Thompson, 1995). Since the aim of this study was to identify common neural patterns caused exclusively by editing cuts, it was more interesting to select excerpts from films that are markedly different in terms of techniques, pacing, and aesthetics (Sanz-Aznar et al., 2020a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To facilitate spectator comprehension of the film excerpts, complete narrative units were chosen (McKee, 1997). It was decided to focus the study on continuity cuts, as these are the shot changes that are most likely to go unnoticed by the spectator (Smith, 2005; Drew and Soto-Faraco, 2024), which means that their detection and encoding patterns would be more immediate and unconscious. The shot changes by cuts selected therefore occur in the same spatial and temporal context. As the aim is to analyze the articulation between shots based on technical-aesthetical form and not narrative content, the study of cuts is focused on continuity editing, rejecting breaks in action, space and time. In total, the selected excerpts contained 261 shot changes by cut. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The neural recordings are compared based on taxonomic categories classifying the type of shot change by cut, for which two forms of taxonomic organization were established. Based on the shot scale and with respect to variation of the camera angle of the shot, a taxonomy was defined that only considers the shot immediately after the cut as a stimulus (G1), while a second taxonomy was designed that considers the variation between the shots immediately before and after the cut to define the stimulus (G2). Table 2 shows the different categories established for G1 and G2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows an example of the conceptual differences between taxonomies G1 and G2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Once the neural signal had been recorded, after manually removing artifacts and analyzing ICA components, the signal was prepared for analysis. First, a model signal was generated based on the 21 subjects of analysis per electrode for each film excerpt. Once this signal had been averaged, the study focused on the area of interest, which was 1 s before and 1 s after each cut, resulting in 2-s time windows. These time sections were used to create the ASF (average signal per film) and ASC (average signal per cut) model signals. ASF model signals are oriented toward detecting common patterns of neural responses to the cut event, while ASC model signals are designed to identify variations in these neural patterns based on the specific type of shot change. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ASF model signals are comprised based on all the shot changes by cuts included in the recorded signal for each film excerpt. In this way, four ASF model signals per electrode are obtained for each excerpt. Each ASF has a duration of 2 s, with the shot change in the central instant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ASC model signals are comprised based on all the shot changes by cuts in the same film excerpt that can be classified as the same type of shot change. Thus, for each electrode and specific type of shot change, four ASC model signals were obtained, one for each film. As two taxonomies (G1 and G2) were established, ASC signals were generated for both G1 and for G2. Like the ASFs, each ASC has a duration of 2 s, with the cut in the center. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2d1a2524832ffe64d7792c98859813aeb9401c3af2515f18edf67a0e467a47a.jpg",
+        "table_caption": [
+            "TABLE 1 Technical-aesthetic differences between film excerpts. "
+        ],
+        "table_footnote": [
+            "aAverage cuts per minute in the excerpt. bLighting style (Revault and Allonnes, 1991/2003). cFilm style (Bordwell, 1985; Langford, 2009; Thanouli, 2009). "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Film</td><td>ColororB8W</td><td>Rhythmic ratioa</td><td>Lightingb</td><td>Film stylec</td></tr><tr><td>Bonnieand Clyde</td><td>Color</td><td>27.24</td><td>Modern</td><td>Transitional</td></tr><tr><td>Thesearchers</td><td>Color</td><td>4.79</td><td>Classical</td><td>Classical</td></tr><tr><td>Whiplash</td><td>Color</td><td>21.89</td><td>Modern</td><td>Post-classical</td></tr><tr><td>Onthewaterfront</td><td>Blackandwhite</td><td>14.45</td><td>Classical</td><td>Classical</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b38ba9a1c5d75bf60d2ab5d49967b228868d781752a02afd334759750a0fa15.jpg",
+        "table_caption": [
+            "TABLE 2 Taxonomy for cuts grouped in G1 and in G2. "
+        ],
+        "table_footnote": [
+            "G1 is focused on the post-cut input and G2 on the variations between shots. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Taxonomy G1</td><td>Taxonomy G2</td></tr><tr><td></td><td>Close-up to close-up</td></tr><tr><td>Mediumshotwithvariationα>30</td><td>Medium shot tomediumshot</td></tr><tr><td>Mediumshotonaxis</td><td>Wideshot towide shot</td></tr><tr><td>Fullshotwithvariationofα>30</td><td>Any to close-up</td></tr><tr><td>Close-up with variation ofα≥30</td><td>Any to wide shot</td></tr><tr><td>Close-upwithvariationofα<30</td><td>Close-upormedium shottofull shot or wide shot</td></tr><tr><td>Wideshotwithvariationofα>30</td><td>Full shot or wide shot to close-up or medium shot</td></tr><tr><td>Wide shot on axis</td><td>Variationofα<30</td></tr><tr><td></td><td>Variationofα≥30</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although G2 involves a more complex processing load than G1, since it includes both the shot preceding and following the cut, it is precisely this condition that allows for the evaluation of whether the cognitive system processes the cut relationally, rather than merely as an isolated perceptual event, as modeled in G1. Including G2 allows to analyze if the brain encodes the cuts as a meaningful change, activating working memory or predictive mechanisms. Previous studies on event segmentation and narrative updating (Ben-Yakov and Henson, 2018), are coherent with the notion that editing cuts function as articulatory boundaries within film sequences. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Once all the ASF and ASC model signals had been generated, they were transformed from the frequency domain by means of a fast Fourier transform and broken down according to the frequency ranges to be analyzed. The frequency bands they were broken down into were: delta $(0.5{-}3\\mathrm{Hz})$ , theta $(3{-}7\\mathrm{Hz})$ , alpha $(7-14~\\mathrm{Hz})$ ), beta $(14{-}32~\\mathrm{Hz})$ and gamma $(32\\mathrm{-}42\\mathrm{~Hz})$ . These frequency bands were then subdivided into the following ranges: low delta $(0.5{-}1.5~\\mathrm{Hz})$ , high delta $(1.5{-}3\\mathrm{Hz})$ , low theta $\\mathrm{^{\\prime}}3\\mathrm{-}5\\mathrm{Hz},$ ), high theta $(5{-}7\\mathrm{Hz})$ , low alpha $(7{-}10{.}5\\mathrm{Hz})$ , high alpha $(10.5{-}14~\\mathrm{Hz}$ ), low beta (14– $23\\mathrm{Hz}$ ), high beta $(23-32~\\mathrm{Hz})$ , low gamma $\\left(32{-}37~\\mathrm{Hz}\\right)$ and high gamma $(37-42~\\mathrm{Hz})$ ). In total, the ASF and ASC model signals for each electrode were broken down into 15 defined frequency ranges (5X3—full, high and low per each frequency band). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The statistical analysis consisted of two stages. The first involved the definition of the patterns of common neural responses to the shot change by cut using the ASF model signals. This was followed by an analysis using the ASC model signals to identify variations occurring within these patterns based on the specific type of cut. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9c1dc4851aeda53add0129f2cf60e65c0269c39ffb4273f393217543416e721.jpg",
+        "img_caption": [
+            "Type: Close-Up to Medium Shot ",
+            "FIGURE 2 Example of taxonomic classification in G1 and G2 according to the shot change. Images taken from the Whiplash excerpt (Chazelle, 2014). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To identify common neural patterns of responses to the cut event, pairwise comparisons were made of the same electrode in the same frequency band between model signals from different film excerpts. Based on four ASF model signals, a total of six comparisons were made. These pairwise comparisons were analyzed for correlation and dependence using a Spearman correlation test $(\\mathrm{Rho}~>~0.5)$ and an exact permutation test $(p<0.05)$ . The combination of Spearman tests and exact permutations test increases the robustness and precision of the results, minimizing type I errors (false positives), in addition to ensuring that the correlations detected are statistically significant. Furthermore, to increase the demand for robustness in the results minimizing type I errors, a neural response pattern triggered by the cut was assumed only if significant positive correlation and dependence were found in all six possible comparisons. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The comparisons were made using sliding time windows, comparing the same time window of the same electrode in the same frequency band among the four ASFs. Each time window is comprised of six consecutive samples. The central window, marked as $0\\mathrm{m}s$ , is comprised of three samples before and three samples after the cut event. Given that the EEGs were recorded at 256 $\\mathrm{Hz}$ , the Fourier transform took ranges of eight EEG samples, and each time window took six frequency domain samples, each time window represents an interval of $187.5~\\mathrm{ms}$ This process used to identify neural response patterns can be consulted in previous publications where it is explained in more detail (Sanz-Aznar et al., 2020b; Sanz-Aznar et al., 2021). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After completing the time windows in the electrodes and frequency bands where neural response patterns triggered by cuts were identified, the variations occurring between different types of cuts were analyzed for the G1 and G2 taxonomies. Based on these, the ASC model signals were generated. To identify the variations, a Kruskal-Wallis analysis of variance (significance threshold: $p<0.05)$ ) was performed together with a Tukey-Kramer multiple comparison test (significance threshold: $p<0.05)$ , taking the type of shot change as a comparison condition (see Table 2). Both methods were applied using sliding windows of six samples for each electrode and frequency range. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Kruskal-Wallis analysis of variance between different ASCs made it possible to identify time windows, electrodes and frequency bands where differences occur in at least one specific type of cut despite the existence of correlation and dependence in the ASF comparisons. In order to identify the types of cut between which this variation is occurring, a post hoc Tukey-Kramer multiple comparison test was performed. The application of this post hoc analysis also allowed us to eliminate potential errors in the analysis of variance. This process used to identify variations in neural response patterns based on the cut category can be consulted in previous publications where it is explained in more detail (SanzAznar et al., 2023a). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The analysis was carry on without pre-selecting regions of interest. The electrodes reported as relevant were not chosen a priori but emerged from a full-brain exploratory analysis as those consistently showing significant effects across multiple conditions and comparisons. The highlighted electrodes were due to their involvement in statistically significant neural responses as defined by the stringent criteria of correlation and dependence across comparisons. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Once the relevant time windows were identified for each electrode and frequency range, the results were analyzed in terms of event-related desynchronization/synchronization (ERD/ERS). ERD/ERS involves comparing the power (energy) in a given frequency band during a specific condition (after the cut) against a baseline period. In the case of this study, the second prior to the cut was established as the baseline, as the aim in analyzing the articulation between two shots joined by a cut was to study the variation caused by the shot change in the temporal continuum of the film and not to a neutral state of rest unrelated to the film. To obtain the ERD/ERS value, Equation 1 (Klimesch, 1996; Doppelmayr et al., 1998) was used: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE R D=\\frac{B a s e l i n e-T e s t}{B a s e l i n e}100\\\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Equation 1, Baseline is the average power of the frequency band of interest during the baseline interval and Test is the average power in that same frequency band during the post-cut interval being examined. The result of the equation is expressed as a percentage, where desynchronization (ERD) processes corresponded to positive values resulting from this operation and synchronization (ERS) processes corresponded to negative values. ERD typically reflects increased cortical activation at a particular frequency when actively processing new information, and ERS indicates a reorganized neuronal firing pattern in that frequency band, often linked to less active processing or a reset mechanism. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae4dd84c2635edf9118c63b215cd19478a831232e2cd4f757ba907cb8d37a03b.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "FIGURE 3 ",
+            "Number of time windows showing correlation and dependence among ASFs, broken down into theta and delta ranges. "
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 Analysis of results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The initial results were obtained by adding up all those windows on the timeline where identified significant correlation and dependence, as shown in Figure 3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As can be seen in Figure 3, common neural responses appear in the theta and delta frequency bands in different time intervals. An ERD/ERS analysis reveals a synchronization in theta between 0 and $200\\mathrm{ms}$ , a desynchronization in theta between 200 and $500~\\mathrm{m}s;$ a desynchronization in delta between 500 and $700\\mathrm{ms}$ , and a synchronization in theta between 650 and $1{,}000~\\mathrm{ms}$ . The activity detected in delta is located in the middle region of the parietal, frontal, frontocentral and central areas with no signs of lateralization. On the other hand, the activity detected in theta is located mainly in the parietal area, although in the case of high theta it also extends through the central, occipital and middle regions of the frontal and frontocentral lobe. Moreover, in the synchronization occurring in theta during the first $200\\mathrm{ms}_{\\mathrm{{\\cdot}}}$ a degree of left lateralization was detected. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Once the neural response patterns were identified, an analysis of variance was performed to detect differences occurring based on the specific type of cut. This analysis was conducted on the G1 taxonomies, based on the new shot as the absolute stimulus (ignoring the previous shot), and on G2, based on analyzing the variation between the shots immediately before and after the cut. In the analysis of variance of those time windows where significant correlation and dependence occurs, a random comparison between different groupings of shots should not give positive results, as variances should only be identified if the different cuts comprising each taxon exhibit behavior that is homogeneous within that taxon but different from those comprising the other taxa. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As can be seen in Figure 4, variations in neural patterns based on the specific type of shot change cannot be identified in the G1 taxonomy, as the responses are the same as they would be if the taxonomy were constructed using random groupings of cuts. However, differences between different types of cuts can be identified in the G2 taxonomy, which means that this taxonomy can be considered to be in keeping with the way the cognitive system ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13dd79c7fa3ae91730ad3a15cf2fb0e5b73dd3d279a8916292d23e39aa13ad73.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FIGURE 4 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Number of time windows for the same electrode and frequency range showing significant differences between different types of cuts. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/202485becdda290a3c23852752edbbcfdc40b3822b43b43720e3a1d7ae9879a5.jpg",
+        "table_caption": [
+            "TABLE 3 Electrodes that are differentiated with taxonomies grouped by shot scale variation. "
+        ],
+        "table_footnote": [
+            "Electrodes detected in the theta frequency band appear in black, those detected in the high theta in red, those detected in the delta in green, and those detected in the low delta in blue. The number of times each electrode showed significant differences is indicated in parentheses. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>Same scale</td><td>Increased scale</td><td>Reduced scale</td></tr><tr><td colspan=\"4\">0 -125 ms</td></tr><tr><td>Same scale</td><td>Cz(2)/OZ(1)</td><td></td><td></td></tr><tr><td>Increased scale</td><td>Oz(1)/Cz(2)</td><td>P3(1)</td><td></td></tr><tr><td>Reduced scale</td><td>P3(2)/Oz(1)/Cz(2)</td><td>P3(1)</td><td></td></tr><tr><td colspan=\"4\">250 - 375 ms</td></tr><tr><td>Same scale</td><td>F8(1)</td><td></td><td></td></tr><tr><td>Increased scale</td><td>F8(4)/F8(3)/P7(1)</td><td></td><td></td></tr><tr><td>Reduced scale</td><td>P7(2)/F8(2)</td><td>F8(2)/P7(1)</td><td>P7(2)</td></tr><tr><td colspan=\"4\">500-1,000 ms</td></tr><tr><td>Same scale</td><td>F8(1)/F3(2)</td><td></td><td></td></tr><tr><td>Increased scale</td><td>F3(6)/F8(3)/ P7(5)/P9(4)/F3(1)/ Afz(3)/C3(2)</td><td></td><td></td></tr><tr><td>Reduced scale</td><td>F8(2)/F3(2)/ P9(3)/F3(3)/Afz(1)</td><td>P7(1)/C3(2)</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "processes shot changes, and not to constitute a random grouping of cuts at the neural level. These findings suggest that, at a cognitive level, the neural system processes the shot change information in a relational manner. Rather than simply replacing the outgoing information with the incoming one, it actively compares the difference between shots. If the positive results had accumulated for G1, that would have indicated the opposite conclusion, namely, that only the incoming shot needs to be processed, without taking the outgoing shot into account. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The time windows in which variations were identified are associated with theta and high theta frequency ranges between 0 and $400~\\mathrm{ms}$ and with delta and low delta between 500 and 1,000 ms. In the period between 0 and $400\\mathrm{ms}$ , variances were detected in the central and posterior regions $\\mathrm{Cz}$ and $\\mathrm{Oz}$ ), while in the period between 500 and $1{,}000~\\mathrm{ms}$ variances were detected in the more frontal (F3, Afz, F8) and parietal regions (P9 and P7), exhibiting left lateralization. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "By analyzing the types of cuts that produce variances between them using the Tukey-Kramer multiple comparison test, it is possible to detect results that can be grouped according to the nature of the variation between shots. Table 3 shows the new reorganization based on the results obtained from the TukeyKramer multiple comparison test. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Groupings are made on the basis of three groups, which are; same scale (including close-up to close-up, medium shot to medium shot and wide shot to wide shot), increased scale (including any shot to wide shot and close-up or medium shot to full shot or wide shot) and reduced scale (including any shot to close-up and full shot or wide shot to close-up or medium shot). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The greater number of differences appear between categories of different groups, while comparing the categories within each group produces fewer differences between them. The time range that is most relevant in this comparison is between 500 and $1{,}000\\mathrm{ms}$ . ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The identification of common patterns of responses to the shot change event would not be enough on its own to define the cut as an articulator, but it is sufficient to define it as a detectable cognitive event. To be able to define the shot change by cut as an articulation, in addition to constituting a cognitive event, it would have to be possible to differentiate it based on an established taxonomy. The analysis of the results related to the identification of neural patterns common to all types of cuts indicates that the condition necessary to attribute an articulating function to the cut has been met. At the same time, it has also been possible to confirm that this common response pattern displays a variation in the neural response depending on the specific type of cut. As both these conditions have been confirmed in this study, it’s possible to define the cut as a cinematographic articulator. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The neural response pattern producing the widest variation in neural rhythms was detected in the delta frequency ranges between 375 and $750\\mathrm{ms}$ , especially in low delta. The desynchronization identified in delta rhythms is believed to be related to cognitive processes, reflecting the suppression of the default mode network (Dimitriadis et al., 2010). Deactivation of the default mode network (DMN) is associated with the beginning of a conscious activity, which could be related to the theory posited by Mitry (1965) about the demands that the shot change places on the spectator. For Mitry, the shot change elicits intellectual activity in the spectator, while the shot itself engages the spectator emotionally. In this sense, Li et al. (2014) associate DMN with emotional perception and empathy in social relations. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The neural response pattern identified as occurring most immediately after the cut event is in the theta frequency band, especially in high theta. This dependence detected in the theta range corresponds to a synchronization in the first $188~\\mathrm{ms}$ after the cut. The parietal region was identified as the main region responsible for the detection of the cut, with variations in its frequency over time, a phenomenon associated with visual-spatial memory (Wolinski et al., 2018). In this first $188~\\mathrm{ms}$ , a tendency toward left lateralization was identified in neural responses, something that is typically associated with cognitive language processes (Redolar, 2014). Theta frequency band synchronization during the first 250 ms is also associated with unconscious emotional processing of stimuli (Knyazev and Slobodskoj-Plusnin, 2009). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, synchronization in the theta band is considered mainly to be a reflection of activity in the hippocampus and is associated with encoding of new information and memoryrelated processes (Klimesch, 1999; O’Keefe and Recce, 1999; Shirvalkar et al., 2010). Activity in the frontal region, both for memorizing and for remembering, is reflected in theta frequencies (Jensen and Tesche, 2002). In this sense, the results point to a neural response pattern consistent with hippocampal activity and align with a previous MRI study showing that shot changes trigger activity in the hippocampus (Ben-Yakov and Henson, 2018). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Various studies locate time perception in the hippocampus and associate this part of the brain with memory processes (Howard and Eichenbaum, 2015; Eichenbaum, 2017) through so-called “time cells” (MacDonald et al., 2011). Along these lines, it has been suggested that the hippocampus is responsible for encoding time through memory (Teki et al., 2017). Based on the results of this study, these conclusions support the hypothesis that filmic time is constructed by means of the cut (Deleuze, 1983), reinforcing the idea that editing is responsible for the articulation of narrative discourse in film. Films have a specific physical duration that does not usually correspond to the length of filmic time, which constructs a time of its own in the narration. Filmic time is a perception that has to be encoded (Deleuze, 1983; Deleuze, 1985), just as Teki et al. (2017) propose that our perception of the reality that surrounds us is encoded in memory, making the hippocampus responsible for encoding reality in a temporal structure. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Some studies also associate the hippocampus with the encoding of space in a manner similar to time encoding (Staresina and Davachi, 2009; Olton et al., 1979; Eichenbaum, 2014). According to these theories, the hippocampus fulfills the function of space-time encoder, an idea in keeping with Burch’s (1969) description of the need to decode films. Burch defines the film as an abstraction of two découpages: temporal découpage and spatial découpage. For Burch, a film is a succession of shots, where each shot is a fragment of space and time, and the filmic discourse is articulated by encoding these spatial and temporal fragments to create the virtual domain of filmic space and time. The results suggesting that the cut triggers synchronizations in theta could be related to the memory processes of the hippocampus, which means that time and space perception may be encoded through the cut. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The finding of left lateralization in theta neural activity to process editing cuts is worth considering in relation to studies of how the brain processes language. Specifically, the fact that left lateralization toward the parietal region is typically associated with cognitive language processes (Redolar, 2014) may point to a connection between filmic perception and linguistic perception. This possibility returns us once again to the debate begun in the 1960s by Mitry (1965) and Metz (1968) about the possible existence of a cinematographic language. Since the earliest days of film theory, various theorists and filmmakers have been developing possible explanations of what cinema is based either on the existence of a cinematographic language (Bettetini, 1963; Pasolini, 1976; Stam et al., 2005; Bordwell et al., 1997; Wenders, 2010) or on the impossibility of its existence (Rivette, 1951; Straub and Huillet, 1984; Deleuze, 1985; Oubiña, 2003). Although the purpose of this study has not been specifically to compare cognitive processes of cinematographic and linguistic perception, the results do suggest that it may be worthwhile to explore potential connections with neuroscientific studies focusing on language processing (Spironelli and Angrilli, 2010; Morillon et al., 2010; Titiz et al., 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Of the two taxonomies initially proposed for study, the G1 group is exclusively dependent on the first frame after the cut, while the G2 group is a categorization based on the relationship between the frames located around the cut. An analysis of the differences between the categories established reveals that the cuts grouped according to the G2 taxonomy display cumulative results in periods of concentration over the course of time after the cut event, while in the cuts grouped according to G1 the results exhibit no differences from a random grouping of cuts. This suggests that the assimilation of the cut by the spectator does not depend exclusively on the new shot, but instead is associated with the relationship between the shots before and after the cut. These results are coherent with other research that defines that differences in the intensity of the effect on the viewer’s mood if the cut changes the scale or if it keeps the same type of scale (Benini et al., 2019). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results of the comparison of G1 and G2 clearly tie in with the theories of shot changes as cinematographic articulators between two units (Mitry, 1965; Burch, 1969). The dependence between shots results compatible with the argument that film is a form of language, in which meaning is produced by the combination of signifiers (Mitry, 1965; Burch, 1969; Bellour, 1989). Mitry (1965) defines film as having a fleeting symbolic nature, where there is no stable relationship between signifier and signified, as the signified is the result of the signifier and its context. As a result, the convention of the symbol is replaced in cinema with fleeting symbolic values whereby ideas can be signified in multiple ways, and at the same time they cannot always be signified in the same way. The shot is therefore a unit of space and time that is resignified in its combination with another shot by means of the cut. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This way that the brain has of processing information is consistent with that described in feature integration theory, where each stimulus is compared with the previous perception (Treisman and Gelade, 1980). It is also in line with the Boolean map theory of perception, which is based on the processing of the variation perceived in the image processed previously (Huang et al., 2007), as well as with theories of discrete perception (Freeman, 2006; VanRullen et al., 2007; Busch and VanRullen, 2010) based on a discontinuous attentional system that creates a sensation of continuity between the instants perceived (Koch, 2004). This sensation of an integrated reality is the product of memory retrieval processes (Huang et al., 2007). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The analysis of the results revealed that neuronal responses varied depending on changes in scale value during shot transitions. These findings were consistent with those obtained from the same dataset using an event-related potential (ERP) analysis in a separate study (Sanz-Aznar et al., 2023b). By analyzing the neuronal signals in the time domain, which allowed for the study of ERPs, distinct reaction patterns were observed between groups with the same scale, increased scale, and reduced scale cuts, similar to the results obtained through ERD/ERS analysis. This differentiation, based on the variation or continuity of shot scale, was a common consideration in film editing manuals, which aimed to manage the narrative flow according to the emotional impact intended to be conveyed to the viewer (Reisz and Millar, 1971; Marimón, 2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The present study proposes an approach toward considering the cut as a cinematic articulator, aiming to recover from an experimental perspective the debate on the possible existence of a cinematographic language. As such, clear limitations appear in the study that should be addressed with complementary research that broadens the spectrum of possibilities allowed by film editing and refines the generated knowledge. The present research has been applied solely with cuts in continuity, maintaining spatial and temporal unity. This implies that the results are limited to this sample universe until they are verified on different types of cuts not included in the present study. Moreover, the present study focuses on basic articulation, without applying a comparison of neural patterns related to specific linguistic processes with the obtained neural responses. However, the results of the present study open the door to this type of comparisons from an experimental justification, complementary to the already existing cinematographic theories that advocate for the existence of a cinematographic language. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The shot change by cut event can be identified at the neurological level thanks to response patterns in the theta and delta frequency bands. The method described above can yield results specifically associated with the perception of the shot change, supported by previous research that also identifies activity in the hippocampus (Ben-Yakov and Henson, 2018). The neural rhythm modulation detected in delta, associated with the default mode network (Dimitriadis et al., 2010), along with the modulation detected in theta, associated with encoding processes and accessing memory (Klimesch, 1999), suggests that to assimilate the shot change the spectator’s cognitive system may require a neural process associated with encoding and decoding, especially given the detection of balanced theta modulations in the left hemisphere of the brain associated with language processing (Bzdok et al., 2016). The relationship between the results of this study and hippocampus activity is considered to be of special interest because of the neurological theories that link the hippocampus to our spatial-temporal encoding of the reality that surrounds us. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "patterns correlatable with purely linguistic processes; however, it is considered that before taking this step, two verifications need to be carried out: The first involves replicating the experiment on cuts that do not respect spatial and temporal unity. The second is to replicate the experiment by looking for points of articulation not in the shot change by cut, but in variations that can be considered changes of unit within the shots, as for example Bellour (1989) proposes with the concept of subsegments. Only after these two verifications does it truly make sense to delve deeper into the search for patterns correlatable with linguistic processes and to propose experiments that would ontologically define what the minimum cinematic unit with its own meaning would be. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Data availability statement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As the structure of the G2 taxonomy’s categories is based on the differences between the shots immediately before and after the cut and this grouping gives rise to different neurological responses observable between categories, it’s possible to infer an absolute dependence of the spectator’s neurological response on the differences identifiable between the two shots. This situation suggests that the spectator’s comprehension of the cut may be dependent on the shots involved in the shot change, and not solely on the specific input of the new shot that follows the cut (G1). Specifically, differences were identified in neural processes depending on variations between shot scales before and after the cut. This supports classical theories proposing the existence of a cinematographic language, although further experiments are needed to be able to draw any conclusions on the question. Based on the current state of research, the shot change can be described as an articulation of signifiers (Mitry, 1965) in an integrated reality (Huang et al., 2007) based on a discontinuous system (Koch, 2004). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Regarding possible future research, there is the possibility of conducting experiments more oriented toward locating neural ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Publicly available datasets were analyzed in this study. This data can be found here: https://osf.io/exbt7/?view_only= a0427e4b8cee4c51bb09b0f978b95883. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ethics statement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The studies involving humans were approved by Aalborg University-ID 2020-020-00504. The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "JS-A: Writing – original draft, Writing – review & editing. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The author(s) declare that financial support was received for the research and/or publication of this article. This research was supported by the Generalitat de Catalunya (FI-AGAUR) grant. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Publisher’s note ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References   \nAmiel, V. (2001). Esthétique du Montage. Silver Spring, MA: Nathan cinéma. Anderson, J. (1996). The Reality of Illusion: An Ecological Approach to Cognitive Film Theory. Carbondale, IL: SIU Press.   \nAndreu-Sánchez, C., Martín-Pascual, M. Á, Gruart, A., and Delgado-García, J. M. (2018). Chaotic and fast audiovisuals increase attentional scope but decrease conscious processing. Neuroscience 394, 83–97. doi: 10.1016/j.neuroscience.2018.10.025   \nArnheim, R. (1932). Film als Kunst. Bremen: Ernst Rowohlt.   \nBálint, K. E., Blessing, J. N., and Rooney, B. (2020). Shot scale matters: The effect of close-up frequency on mental state attribution in film viewers. Poetics 83:101480. doi: 10.1016/j.poetic.2020.101480   \nBaudry, J. L. (1975). Le dispositif. Communications 23, 56–72. doi: 10.3406/comm. 1975.1348   \nBazin, A. (1958). Qu’est-ce que le Cinéma?. Ariyalur: Éditions du Cerf.   \nBellour, R. (1989). L’analyse du Film. Paris: Calmann-Lévy.   \nBellour, R. (2009). Le corps du cinéma. Hypnoses, Émotions, Animalités. Paris: Editions P.O.L.   \nBenini, S., Savardi, M., Balint, K., Kovacs, A. B., and Signoroni, A. (2019). On the influence of shot scale on film mood and narrative engagement in film viewers. IEEE Trans. Affect. Comput. 13, 592–603. doi: 10.1109/TAFFC.2019.2939251   \nBen-Yakov, A., and Henson, R. (2018). The hippocampal film-editor: Sensitivity and specificity to event boundaries in continuous experience. J. Neurosci. 38, 10057–10068. doi: 10.1523/JNEUROSCI.0524-18.2018   \nBettetini, G. (1963). Cinema: Lingua e Scrittura. Milan: Bompiani.   \nBordwell, D. (1985). Narration in the Fiction Film. Routledge.   \nBordwell, D. (1991). “Interpretation as construction,” in Making meaning: Inference and rhetoric in the interpretation of cinema. Harvard University Press, 1–7.   \nBordwell, D., and Thompson, K. (1995). “Technological change and classical film style,” in Grand Design: Hollywood as a Modern Business Enterprise, 1930–1939, ed. T. Balio (Oakland, CA: University of California Press), 109–141.   \nBordwell, D., Thompson, K., and Smith, J. (1997). Film Art: An Introduction. New York, NY: McGraw-Hill.   \nBurch, N. (1969). Praxis du Cinéma. Paris: Gallimard.   \nBurch, N. (1991). La Lucarne de l’infini. Naissance du Langage Cinématographique. Silver Spring, MA: Nathan.   \nBusch, N., and VanRullen, R. (2010). Spontaneous EEG oscillations reveal periodic sampling of visual attention. Proc. Natl. Acad. Sci. U. S. A. 107, 16048–16053. doi: 10.1073/pnas.1004801107   \nBzdok, D., Hartwigsen, G., Reid, A., Laird, A., Fox, P., and Eickhoff, S. (2016). Left inferior parietal lobe engagement in social cognition and language. Neurosci. Biobehav. Rev. 68, 319–334. doi: 10.1016/j.neubiorev.2016.02.024   \nChazelle, D. (Director) (2014). Whiplash [Film]. Blumhouse Productions.   \nChomette, H. (Director) (1926). Cinq minutes de cinema pur [Film].   \nCutting, J. E., and Armstrong, K. L. (2016). Facial expression, size, and clutter: Inferences from movie structure to emotion judgments and back. Attent. Percept. Psychophys. 78, 891–901. doi: 10.3758/s13414-015-1003-5   \nDeleuze, G. (1983). L’image-Mouvement. Cinéma 1. Paris: Les Éditions de Minuit. Deleuze, G. (1985). L’image-Temps. Cinéma 2. Paris: Les Éditions de Minuit. Dimitriadis, S., Laskaris, N., Tsirka, V., Vourkas, M., and Micheloyannis, S. (2010). What does delta band tell us about cognitive processes: A mental calculation study. Neuroscience 483, 11–15. doi: 10.1016/j.neulet.2010.07.034   \nDmytryk, E. (1984). On Film Editing. London: Routledge.   \nDoppelmayr, M., Klimesch, W., Pachinger, T., and Ripper, B. (1998). The functional significance of absolute power with respect to event-related desynchronization. Brain Topogr. 11, 133–140. doi: 10.1023/A:1022206622348   \nDrew, A., and Soto-Faraco, S. (2024). Perceptual oddities: Assessing the relationship between film editing and prediction processes. Philos. Trans. R. Soc. B Biol. Sci. 379:20220426. doi: 10.1098/rstb.2022.0426   \nEco, U. (1976). “Articulations of the cinematic code,” in Movies and Methods, Vol. 1, ed. B. Nichols (Berkeley, CA: University of California Press), 590–607.   \nEichenbaum, H. (2014). Time cells in the hippocampus: A new dimension for mapping memories. Nat. Rev. Neurosci. 15:732. doi: 10.1038/nrn3827   \nEichenbaum, H. (2017). Time (and space) in the hippocampus. Curr. Opin. Behav. Sci. 17, 65–70. doi: 10.1016/j.cobeha.2017.06.010   \nEisenstein, S. (1977/1949). Film Form: Essays in Film Theory. Lowa: Hartcourt. Eisenstein, S., and Leyda, J. (1942). The Film Sense. Lowa: Hartcourt. Ford, J. (Director) (1956). The Searchers [Film]. Warner Bros. Pictures.   \nFreeman, W. J. (2006). A cinematographic hypothesis of cortical dynamics in perception. Int. J. Psychophysiol. 60, 149–161. doi: 10.1016/j.ijpsycho.2005. 12.009   \nHeimann, K., Uithol, S., Calbi, M., Umiltà, M., Guerra, M., and Gallese, V. (2016). “Cuts in Action”: A high-density EEG study investigating the neural correlates of different editing techniques in film. Cogn. Sci. 41, 1–34. doi: 10.1111/cogs.12439 Howard, M., and Eichenbaum, H. (2015). Time and space in the hippocampus. Brain research 1621, 345–354. doi: 10.1016/j.brainres.2014.10.069   \nHuang, L., Treisman, A., and Pashler, H. (2007). Characterizing the limits of human visual awareness. Science 317, 823–825. doi: 10.1126/science.114 3515   \nHullfish, S. (2017). Art of the Cut: Conversations with Film and TV Editors. London: Routledge.   \nJackendoff, R. (1987). Consciousness and the Computational Mind. Cambridge, MA: The MIT Press.   \nJensen, O., and Tesche, C. (2002). Frontal theta activity in humans increases with memory load in a working memory task. Eur. J. Neurosci. 15, 1395–1399. doi: 10.1046/ j.1460-9568.2002.01975.x   \nKazan, E. (Director) (1954). On the Waterfront [Film]. Columbia Pictures.   \nKlimesch, W. (1996). Memory processes, brain oscillations and EEG sychronization. Int. J. Psychophysiol. 24, 61–100. doi: 10.1016/S0167-8760(96)00057-8   \nKlimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: A review and analysis. Brain Res. Rev. 29, 169–195. doi: 10.1016/S0165- 0173(98)00056-3   \nKnyazev, G., and Slobodskoj-Plusnin, J. (2009). Event-related delta and theta synchronization during explicit and implicit emotion processing. Neuroscience 164, 1588–1600. doi: 10.1016/j.neuroscience.2009.09.057   \nKoch, C. (2004). The Quest for Consciousness: A Neurobiological Approach. London: Francis Crick.   \nKracauer, S. (1960). Theory of Film: The Redemption of Physical Reality. Oxford: Oxford University Press.   \nLangford, B. (2009). Post-Classical Hollywood: Film Industry, Style and Ideology since 1945: Film Industry, Style and Ideology since 1945. Edinburgh: Edinburgh University Press.   \nLéger, F., and Murphy, D. (Directors) (1924). Le ballet mécanique [Film]. SynchroCiné.   \nLi, W., Mai, X., and Liu, C. (2014). The default mode network and social understanding of others: What do brain connectivity studies tell us. Front. Hum. Neurosci. 8:74. doi: 10.3389/fnhum.2014.00074   \nLoschky, L. C., Larson, A. M., Smith, T. J., and Magliano, J. P. (2020). The scene perception & event comprehension theory (SPECT) applied to visual narratives. Top. Cogn. Sci. 12, 311–351. doi: 10.1111/tops.12455   \nMacDonald, C., Lepage, K., Eden, U., and Eichenbaum, H. (2011). Hippocampal “time cells” bridge the gap in memory for discontiguous events. Neuron 71, 737–749. doi: 10.1016/j.neuron.2011.07.012   \nMagliano, J. P., Miller, J., and Zwaan, R. A. (2001). Indexing space and time in film understanding. Appl. Cogn. Psychol. 15, 533–545. doi: 10.1002/acp.724   \nMarimón, J. (2015). El Muntatge Cinematogràfic. Del guió a la Pantalla. Barcelona: Edicions Universitat Barcelona.   \nMartin, M. (1955). Le Langage Cinématographique. Ariyalur: Éditions du Cerf. McKee, R. (1997). Story: Substance, Structure, Style and the Principles of Screenwriting. NewYork, NY: Regan Books.   \nMetz, C. (1968). Essais sur la Signification au Cinéma. Paris: Klincksieck.   \nMitry, J. (1965). Esthétique et Psychologie du Cinéma. Paris: Éditions universitaires. Mitry, J. (1987). La Sémiologie en Question. Paris: Éditions du Cerf.   \nMorillon, B., Lehongre, K., Frackowiak, R., Ducorps, A., Kleinschmidt, A., Poeppel, D., et al. (2010). Neurophysiological origin of human brain asymmetry for speech and language. Proc. Natl. Acad. Sci. U. S. A. 107, 18688–18693. doi: 10.1073/pnas. 1007189107   \nMurch, W. (1995). In the Blink of an Eye: A Perspective on Film Editing. West Hollywood, CA: Silman-James Press.   \nO’Keefe, J., and Recce, M. (1999). Phase relationship between hippocampal place units and the EEG theta rhythm. Hippocampus 3, 317–330. doi: 10.1002/hipo. 450030307   \nOlton, D., Becker, J., and Handelmann, G. (1979). Hippocampus, space, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and memory. Behav. Brain Sci. 2, 313–322. doi: 10.1017/S0140525X000   \n62718 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Oubiña, D. (2003). Jean Luc Godard el Pensamiento del cine: Cuatro Miradas Sobre Histoire(s) du cinema. Buenos Aires: Paidós. Oudart, J.-P. (2005/1969). “La sutura,” in Teoría y crítica del cine. Avatares de una cinefilia, A. De Baecque (Spain: Paidós Comunicación), 52–68. Pasolini, P. (1976). “The cinema of poetry,” in Movies and Methods, ed. B. Nichols (San Francisco, CA: Bill Nichols), 542–558. Penn, A. (Director) (1967). Bonnie and Clyde [Film]. Warner Bros. Pictures. Perego, E., Del Missier, F., Porta, M., and Mosconi, M. (2010). The cognitive effectiveness of subtitle processing. Media Psychol. 13, 243–272. doi: 10.1080/ 15213269.2010.502873 Redolar, D. (2014). Neurociencia Cognitiva. Mexico: Panamericana. Reisz, K., and Millar, G. (1971). The technique of film editing. Oxford: Elsevier. Revault, D., and Allonnes, F. (1991/2003). La luz en el cine. Ariyalur: Catedra. Rivette, J. (1951). L’age des metteurs en scène. Cahiers du Cinéma 31, 45–48. Sanz-Aznar, J., Aguilar-Paredes, C., Sánchez-Gómez, L., Bruni, L., and WulffAbramsson, A. (2020b). Methodology for detection of ERD/ERS EEG patterns produced by cut events in film fragments. Lect. Notes Comput. Sci. 12196, 157–175. doi: 10.1007/978-3-030-50353-6_12 Sanz-Aznar, J., Bruni, L. E., and Soto-Faraco, S. (2023b). Cinematographic continuity edits across shot scales and camera angles: An ERP analysis. Front. Neurosci. 17:1173704. doi: 10.3389/fnins.2023.1173704 Sanz-Aznar, J., Sánchez-Gómez, L., Aguilar-Paredes, C., Wulff-Abramsson, A., and Bruni, L. E. (2023a). Differentiating types of cinematographic shot changes by cut through an EEG power spectral analysis. Psychol. Aesthet. Creat. Arts 18, 737–749. doi: 10.1037/aca0000609 Sanz-Aznar, J., Sánchez-Gómez, L., and Bruni, L. (2020a). Methodology for the neurocinematic analysis of film transitions through cuts to the next shot using the electroencephalogram. Commun. Methods 2, 5–20. doi: 10.35951/v2i2.82 Sanz-Aznar, J., Sánchez-Gómez, L., Bruni, L. E., Aguilar-Paredes, C., and WulffAbramsson, A. (2021). Neural responses to shot changes by cut in cinematographic editing: An EEG (ERD/ERS) study. PLoS One 16:e0258485. doi: 10.1371/journal.pone. 0258485 Shirvalkar, P., Rapp, P., and Shapiro, M. (2010). Bidirectional changes to hippocampal theta–gamma comodulation predict memory for recent spatial episodes. Proc. Natl. Acad. Sci. 107, 7054–7059. doi: 10.1073/pnas.0911184107 Shklovsky, V. (1971/1928). Cine y Lenguaje. Mumbai: Anagrama. Silva, M., Baldassano, C., and Fuentemilla, L. (2019). Rapid memory reactivation at movie event boundaries promotes episodic encoding. J. Neurosci. 39, 8538–8548. doi: 10.1523/JNEUROSCI.0360-19.2019 Smith, T. (2005). An Attentional Theory of Continuity Editing. Edinburgh: University of Edinburgh. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Smith, T. (2012). An attentional theory of cinematic continuity. Projections 6, 1–50. doi: 10.3167/proj.2012.060102 Smith, T. (2013). “Watching you watch movies: Using eye tracking to inform film theory,” in Psychocinematics: Exploring Cognition at the Movies, ed. A. Shimamura (Oxford: Oxford University Press), 165–191. Smith, T., and Henderson, J. (2008). Edit Blindness: The relationship between attention and global change blindness in dynamic scenes. J. Eye Move. Res. 2, 1–17. doi: 10.16910/jemr.2.2.6 Spironelli, C., and Angrilli, A. (2010). Developmental aspects of language lateralization in delta, theta, alpha and beta EEG bands. Biol. Psychol. 85, 258–267. doi: 10.1016/j.biopsycho.2010.07.011 Stam, R., Burgoine, R., and Flitterman-Lewis, S. (2005). New Vocabularies in Film Semiotics: Structuralism, Poststructuralism and Beyond. London: Routledge. Staresina, B., and Davachi, L. (2009). Mind the gap: Binding experiences across space and time in the human hippocampus. Neuron 63, 267–276. doi: 10.1016/j.neuron.2009. 06.024 Straub, J.-M., and Huillet, D. (1984). “Quelque chose qui brûle dans le plan: Entretien avec Jean-Marie Straub et Danièle Huillet,” in Cahiers du cinéma, ed. A. Berlanga (Paris: Entrevistador). Tan, E. S. (2018). A psychology of the film. Palgrave Commun. 4:82. doi: 10.1057/ s41599-018-0111-y Teki, S., Gu, B.-M., and Meck, W. (2017). The persistence of memory: How the brain encodes time in memory. Curr. Opin. Behav. Sci. 17, 178–185. doi: 10.1016/j.cobeha. 2017.09.003 Thanouli, E. (2009). Post-Classical Cinema: An International Poetics of Film Narration. New York, NY: Wallflower Press. Tirard, L. (2005). Moviemakers’ Master Class II: Private Lessons from the World’s Foremost Directors. London: Faber & Faber. Titiz, A., Hill, M., Mankin, E., Aghajan, Z., Eliashiv, D., Tchemodanov, N., et al. (2017). Theta-burst microstimulation in the human entorhinal area improves memory specificity. Elife 6:e29515. doi: 10.7554/eLife.29 515.001 Treisman, A., and Gelade, G. (1980). A feature-integration theory of attention. Cognit. Psychol. 12, 97–136. doi: 10.1016/0010-0285(80) 90005-5 VanRullen, R., Carlson, T., and Cavanagh, P. (2007). The blinking spotlight of attention. Proc. Natl. Acad. Sci. U. S. A. 104, 19204–19209. doi: 10.1073/pnas. 0707316104 Wenders, W. (2010). Film is a Language that Can be Taught. Strasbourg: European Parliament. Wolinski, N., Cooper, N., Sauseng, P., and Romei, V. (2018). The speed of parietal theta frequency drives visuospatial working memory capacity. PLoS Biol. 16:e2005348. doi: 10.1371/journal.pbio.2005348 ",
+        "page_idx": 12
+    }
+]

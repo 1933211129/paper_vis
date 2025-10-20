@@ -1,0 +1,9 @@
+[
+  {
+    "Cognitive Control Definition": "Cognitive control enables flexible human behavior by resolving conflict between competing response options, as seen in Stroop tasks where incongruent stimuli increase reaction times and errors.",
+    "Conflict Adaptation Effect": "The Gratton effect describes reduced interference on incongruent trials following high-conflict trials, reflecting adaptive adjustments in cognitive control to manage stimulus-response conflict.",
+    "DLPFC Role": "The dorsolateral prefrontal cortex is central to cognitive control, working with medial prefrontal areas to regulate behavior, though its causal mechanisms in conflict resolution remain partly unknown.",
+    "Sensory Modulation Hypothesis": "DLPFC may exert top-down control by modulating sensory areas like the fusiform face area during conflict, enhancing processing of task-relevant features to resolve interference.",
+    "Multimodal Experimental Design": "This study combines rTMS, fNIRS, and EEG in an audiovisual Stroop task to test DLPFC's causal role and its cross-modal control over sensory processing during conflict resolution."
+  }
+]

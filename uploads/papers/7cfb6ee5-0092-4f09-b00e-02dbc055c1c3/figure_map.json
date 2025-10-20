@@ -1,0 +1,57 @@
+{
+  "Context & Related Work": [],
+  "Methodology & Setup": [
+    {
+      "figure_id": "8ed20c5aae925d0c0fb7d5a02288f10a47660e598da53c5f04e1eb3e24c9b49d",
+      "figure_caption": "FIGURE 2 Probe set positioning of the 52 fNIRS channels. Blue channel numbers indicate channels covering the DLPFC, red channel numbers are candidate channels for the functional channel of interest analysis for allocating the individual position of the auditory cortex (for further explanations see section Preprocessing of fNIRS data). ",
+      "reference_text": [
+        "The probe set positioning is depicted in Figure 2",
+        "(2005) (see Figure 2 for an assignment of channels to different regions of interest)",
+        "To this end, all channels allocated to the left and right DLPFC, respectively, were averaged per task condition and participant (see Figure  2; left DLPFC: channels $\\#6\\mathrm{-}9$ , 17, 18, 39, 50; right DLPFC: channels #2–5, 14, 15, 25, 35, 45, 46)",
+        "To this end, in each participant, we determined the channel with the strongest activation across all conditions (i.e., largest GLM regression coefficient $\\beta$ for an all-greater-baseline contrast) from a set of twelve (six per hemisphere) predefined candidate channels (channels: 11, 21, 22, 31–33, 41–44, 51, 52; see Figure  2)"
+      ]
+    },
+    {
+      "figure_id": "b2d0265bd7b3297b1e64fe9e0709a6c1f357427d93dabd6603c377193050de59",
+      "figure_caption": "T-maps of fNIRS activation data averaged across all experimental conditions following verum (left) vs. placebo (right) TBS. Black numbers mark significant deviations from zero (uncorrected $p$ -values), i.e., significantly activated fNIRS channels. ",
+      "reference_text": []
+    },
+    {
+      "figure_id": "701bb142f4eae169f17916e501dbf6993263710259171fea44c52ab1a8c329d7",
+      "figure_caption": "T-maps of fNIRS activation data averaged across visual and auditory task blocks as well as both stimulation conditions (verum and sham) for incongruent following congruent (left) and incongruent following incongruent trials (middle) as well as the corresponding difference map (incongruent following incongruent—incongruent following congruent $=$ Gratton contrast). Black numbers mark significant t-comparisons (against zero: left and middle; between conditions: right; corrected significance level of $p<0.01)$ . ",
+      "reference_text": []
+    }
+  ],
+  "Results & Analysis": [
+    {
+      "figure_id": "4e25bd04148452e37f51b487743b2cd4d5f53173dcd08697a5b759509ff643ae",
+      "figure_caption": "(A) Inverse efficiency scores (IES) for congruent (black) and incongruent trials (grey) of visual (left) and auditory (right) task blocks. Significant differences $(^{\\star\\star\\star}p<0.001)$ between congruent and incongruent trials show the well-known Stroop effect. (B) Inverse efficiency scores (IES) for current congruent (left) and current incongruent trials (right) following congruent (black) or incongruent (grey) previous trials. The comparison within current incongruent trials marks the so-called Gratton effect (IES for previous incongruent $<$ previous congruent trials; $p<0.05)$ . (C) Inverse efficiency scores (IES) for the TBS placebo/sham (black, round endings) and TBS verum condition (grey, diamond endings) for incongruent following congruent (left) and incongruent following incongruent (right) trials (both conditions significantly differed only for placebo stimulation: $t_{21}=2.71,$ , $p<0.01$ one-sided, 0.05 two-sided $=$ “Gratton effect”). Error bars indicate the standard error (SE). ",
+      "reference_text": []
+    },
+    {
+      "figure_id": "9f3abaf96b86c80c52ce263a6891159f84c8f430d865d51f9741693b9099dfca",
+      "figure_caption": "TABLE 1  Reaction times, error rates and IES for the different modalities (visual vs. auditory), stimulation (verum vs. placebo) and congruency conditions (current and previous trial), $N=22$ . ",
+      "reference_text": [
+        "RTs, error rates and the resulting IES of the behavioral sample are presented in Table 1"
+      ]
+    },
+    {
+      "figure_id": "e2d6b9c11985c41cf384d48fdb1eec1baec0c045c645afac7e9ff88d5a858530",
+      "figure_caption": "$\\beta$ -values in the left (grey) and right (black) auditory cortex during visual task blocks for incongruent following congruent (left parts of both panels) and incongruent following incongruent trials (right parts of both panels) following placebo (left panel) vs. verum (right panel) TBS. Note that only after placebo stimulation, auditory cortex activity within the right hemisphere was suppressed following previous incongruent trials (i.e., in high conflict– high control conditions; $^{\\star}p<0.05\\$ ). ",
+      "reference_text": []
+    },
+    {
+      "figure_id": "d2a4d7aef4fcdbe2747cd7247e5695c1303b61356269c46ac6e617d21471532e",
+      "figure_caption": "The top part of the figure shows grand averaged waveforms for electrode position P8 and a focus on the auditory stimuli (while faces were still depicted), for which significant effects were observed. Different conditions are displayed in different colors (green: congruent stimuli following placebo/sham stimulation; blue: incongruent stimuli following placebo/sham stimulation; yellow: congruent stimuli following inhibitory TBS; red: incongruent stimuli following inhibitory TBS). The N170 peak is highlighted by a box. The lower part of the figure illustrates the statistical finding of a reduction of N170 amplitudes $(\\upmu\\lor)$ from congruent to incongruent trials only after placebo stimulation (left side; please note that the N170 is a negative potential, so more positive values represent reduced amplitudes). The panel on the right illustrates the significant difference ${(^{\\star}\\:p<0.05)}$ between placebo and verum stimulation for the resulting difference measure (N170 amplitude for incongruent minus congruent trials). Error bars indicate the standard error (SE). ",
+      "reference_text": []
+    },
+    {
+      "figure_id": "1bdcc8a40a2854e759347dc4b16e3d99b28e5732d8eb5a6c6c10e3bc4b1735e6",
+      "figure_caption": "FIGURE 8 Significant Spearman correlation between ATQ Attention control scores and the IES Gratton difference measure during visual task blocks of the placebo session (IES for incongruent following congruent minus incongruent following incongruent trials); $R h O=0.747,p<0.001.$ ",
+      "reference_text": [
+        "The score of the ATQ subscale “Attentional control” was significantly correlated with the Gratton effect of the IES (difference between incongruent following congruent minus incongruent following incongruent trials) in visual task blocks of the placebo session $R h o=0.747$ , $p<0.001,$ ), i.e., the higher participants scored on attentional control, the stronger the reduction of the Stroop effect following previous incongruent trials (see Figure 8)"
+      ]
+    }
+  ],
+  "Conclusion": []
+}

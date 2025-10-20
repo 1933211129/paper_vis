@@ -1,0 +1,8 @@
+# 基础依赖
+Django==4.2.7
+django-cors-headers==4.3.1
+aiohttp
+pydantic
+dotenv
+requests
+gunicorn
