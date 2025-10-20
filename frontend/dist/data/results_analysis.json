@@ -1,0 +1,8 @@
+[
+  {
+    "CSD Performance Gains": "Salient Store on CSDs performs 1.99x better than classical storage systems, with load-balanced data distribution across two CSDs achieving up to a 7.7x speedup in compute.",
+    "Large Scale Evaluation": "On AWS F1 instances, Salient Store shows 4.49x lower latency than VSS and a 6.18x speedup over classical storage, while reducing data communication volume by 5.63x.",
+    "Video Recovery Quality": "Salient Store consistently outperforms H264 and matches HEVC in PSNR, achieving high-quality video recovery with ≈47 dB PSNR at higher bitrates and lower encoding latency.",
+    "Encryption Acceleration": "FPGA-accelerated lattice-based encryption in Salient Store provides a 3.2x speedup over its software version and is quantum-safe, despite higher overhead than RSA."
+  }
+]

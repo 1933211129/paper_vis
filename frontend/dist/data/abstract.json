@@ -1,0 +1,6 @@
+{
+  "Background/Problem": "Current edge servers for continuous learning video analytics lack efficient storage systems, creating data management challenges despite growing data demands and privacy concerns.",
+  "Method/Approach": "Proposes Salient Store framework integrating Computational Storage Devices (CSDs) with FPGAs and SSDs to optimize data compression, encryption, and management tasks.",
+  "Result": "Salient Store reduces communication latency by ≈6.2× and data volume by ≈6.1× through parallel processing and high internal bandwidth utilization.",
+  "Conclusion/Contribution": "Demonstrates CSDs can revolutionize storage by making them active computational participants rather than passive repositories in continuous learning systems."
+}

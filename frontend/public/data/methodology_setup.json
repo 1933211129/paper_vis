@@ -1,0 +1,8 @@
+[
+  {
+    "Hybrid Storage Architecture": "Salient Store integrates Computational Storage Drives (CSDs) with FPGAs and classical HDDs, using PCIe for peer-to-peer communication to reduce latency and CPU load while balancing cost and efficiency.",
+    "Layered Neural Codec": "An enhanced codec uses motion vectors and layered encoding to exploit inter-frame redundancies, incrementally improving video quality and adapting to network conditions for efficient compression.",
+    "FPGA Implementation": "The neural codec is implemented on FPGAs in CSDs, leveraging parallel processing for motion estimation, residual calculation, and layered encoding to achieve real-time high-resolution video compression.",
+    "Joint Training Strategy": "MobileNet features are frozen as a static extractor while the autoencoder is trained with motion vectors to compress enriched features, minimizing reconstruction loss without altering the base model."
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "Context & Related Work": [
+    {
+      "figure_id": "67bec8cc38cfc1590f695463e473c85a9bd1deb4730f6907cb4dcbf2f1a5f9ad",
+      "figure_caption": "Figure 1: Data flow pipeline of continuous learning edge servers with storage and data archival pipeline. The Shown storage pipeline is the preliminary focus of Salient Store . ",
+      "reference_text": [
+        "Fig. 1 illustrates the data flow in an edge server, where video data are first encoded (using H264 or similar codecs), then encrypted (with RSA or similar standards), and finally stored across a distributed set of disks to ensure redundancy (e.g., RAID 5)",
+        "As discussed earlier,Salient Store edge storage implements a video archival by using neural compression followed by a quantum safe encryption (refer Fig. 1)"
+      ]
+    },
+    {
+      "figure_id": "738e77c70d5c1ea0f16a386dfbac8a7f99d6b3bdcfde9f0c3d87b28f4e38fb61",
+      "figure_caption": "Figure 2: High-level design of the Salient Store edge server - it consists of the accelerated video analytics compute along with computational storage and classical storage drives. ",
+      "reference_text": [
+        "This design, depicted in Fig. 2, gives the programmable computational capabilities of CSDs along with the cost-effectiveness and durability of the classical HDDs"
+      ]
+    },
+    {
+      "figure_id": "04741c48eec2d987b859c745b549a67d636bd810785eda09573213a5c77e59bc",
+      "figure_caption": "Algorithm 2 Training Auto-Encoder with Motion Vectors and Stacked Compression while freezing the inference model. ",
+      "reference_text": []
+    },
+    {
+      "figure_id": "05026cd7a14ccf773927cbc77551a98e9962115b3aec5a350f411c62e123c87a",
+      "figure_caption": "Figure 4: Latency analysis of $S a\\mathcal{V}$ ient Store on the commercial Xilinx CSD on a workstation class machine (lower is better). Compute server indicates a software only classical storage solution without CSDs. ",
+      "reference_text": [
+        "Fig. 4 shows the latency while using the storage server and CSD for performing data writes, normalized to the latency of doing the same using the state of the art Alveo FPGAs"
+      ]
+    },
+    {
+      "figure_id": "95046831891a0a6a32fa58349de8e7fc20b608403c27a06257cfe70898e896f8",
+      "figure_caption": "Figure 5: Performance of Salient Store on larger compute and storage nodes. This experiment to mimics a consolidated edge server catering to many video streams. Compute server indicates a software only classical storage solution without CSDs. ",
+      "reference_text": [
+        "As shown in Fig. 5a Salient Store keeps up with the accuracy of the traditional compression system thanks to the robust layered coding algorithm",
+        "Additionally, as shown in Fig. 5b, Salient Store has $4.49\\times$ less latency than VSS where as it shows about a $6.18\\times$ speedup compared to the classical storage server",
+        "Furthermore, as depicted in Fig. 5c, SLAT reduces the data communication volume up to $\\approx5.63\\times$ compared to the classical approaches, thereby saving bandwidth (reduces bandwidth by $\\approx36\\%$ , public cloud has strict regulations on measuring the actual bandwidth, and hence we report the approximate result from the traffic pattern) and energy"
+      ]
+    },
+    {
+      "figure_id": "1b2a63d3f5341465775d1f4b6f3b9b407a46445b49e991880b7ceca84f80d9bf",
+      "figure_caption": "Figure 6: Impact of scaling to multiple storage nodes. ",
+      "reference_text": [
+        "However, due to complex interaction between multiple storage nodes, especially where some of the data needed to arrive at different nodes via network, in Fig. 6, we observe a significant change in the latency compared to a single storage node"
+      ]
+    },
+    {
+      "figure_id": "b7b4dce257533ad7e9e542d7cfd6634d0afc97dd910651689e21fd8361331d97",
+      "figure_caption": "Figure 7: Proposed encryption vs the state-of-the-art normalized to the FPGA implementation of the lattice based encryption. ",
+      "reference_text": [
+        "Fig. 7 shows the comparison of our FPGA-accelerated lattice-based encryption against other state-of-the-art-techniques"
+      ]
+    },
+    {
+      "figure_id": "e0bbd39599eb9f7cdb817a13c87a8a1ed10f71fcb9eed23a66749764b9c22e55",
+      "figure_caption": "Figure 8: Compression and Recovery efficiency. ",
+      "reference_text": [
+        "Experiments on waymo (Sun et al., 2020) dataset shows the PSNR of Salient Store compared to the classical H264 and HEVC encoding pipeline in Fig. 8"
+      ]
+    },
+    {
+      "figure_id": "ca275c02ec95618c2db306d784c9075c93c9bf647d790a2d6f6c7ad2468bce21",
+      "figure_caption": "Figure 9: Encoding Latency using layered coding. ",
+      "reference_text": [
+        "Furthermore, as we can see in Fig. 9, HEVC takes significantly more latency compared to Salient Store and therefore not entirely suitable for high frame-rate applications with resource constraints"
+      ]
+    },
+    {
+      "figure_id": "7d11fe60843915644a3f9d09ea7f69b3ff6ba768afd5b2524655ec3192044535",
+      "figure_caption": "Figure 10: Change of data movement latency with respect to the number of storage servers. ",
+      "reference_text": [
+        "Fig. 10 shows the impact of scaling Salient Store with respect to a single node system, i.e., a single storage server"
+      ]
+    },
+    {
+      "figure_id": "61eb63cdd9e08b953673bc2f2d05ff4a3771f2efbe12c23da18a5f0a63c7cc22",
+      "figure_caption": "Figure 11: Impact of increasing the number of CSDs in the system (the baseline system has a SSD-to-CSD ratio 8 to 1). ",
+      "reference_text": [
+        "Similarly, Fig. 11 shows the impact of increasing the number of CSDs in a storage server"
+      ]
+    }
+  ],
+  "Methodology & Setup": [
+    {
+      "figure_id": "0d5c86558135942a23547aca02b254548f3dea8c7cb8acf49186e9ca204c2848",
+      "figure_caption": "Figure 3: Microarchitectural designs of HSPM and SDMM: Hardware modules for polynomial multiplication in LBC. ",
+      "reference_text": [
+        "Here, the most significant bit (MSB) signed-bit dictates the subtraction of the result from the modulus $q$ , as illustrated in Fig. 3b",
+        "The HSPM accelerator’s architecture, as illustrated in Fig. 3a, comprises three pipelined stages",
+        "DSP output representing the first product $d_{0}$ and the highest 18 bits indicating the second product $d_{1}$ , corresponding to $b_{0}$ and $b_{1}$ respectively, as depicted in Fig. 3b",
+        "The MR hardware, highlighted in Fig. 3b, consists of a single shift block, a subtractor, and a adder, consuming much less hardware then the state-of-the-art (Fan et al., 2018)"
+      ]
+    }
+  ],
+  "Results & Analysis": [],
+  "Conclusion": []
+}

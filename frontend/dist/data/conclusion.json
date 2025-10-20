@@ -1,0 +1,8 @@
+[
+  {
+    "CSD Paradigm Shift": "Proposes a shift in storage architecture using Computational Storage Devices to reduce data movement and enable near-data processing for modern ML applications.",
+    "Salient Store Performance": "Demonstrates significant improvements with Salient Store, achieving up to 6.18x latency reduction and 6.13x data movement reduction compared to classical systems.",
+    "Continuous Learning Applications": "Highlights the system's effectiveness in continuous learning scenarios like autonomous driving and urban mobility, which handle immense data volumes.",
+    "Future Storage Evolution": "Emphasizes the growing importance of optimized CSDs to meet future challenges from evolving ML applications generating larger, more complex datasets."
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "Edge Video Analytics": "Video analytics using DNNs is critical for real-time applications like autonomous driving and surveillance, often requiring edge deployment due to privacy, regulations, and resource constraints.",
+    "Data Archival Challenges": "Archiving video data at the edge demands substantial storage, energy for compression/encryption, and secure management, complicating intermittent systems and increasing resource use.",
+    "Neural Compression Benefits": "Neural codecs offer adaptive, efficient compression by reusing DNN features from analytics, improving ratios and reducing compute needs compared to traditional codecs like H264.",
+    "Computational Storage Drives": "CSDs integrate computation near storage, offloading tasks like compression and encryption to reduce data movement, latency, and energy use in edge systems.",
+    "Quantum-Safe Encryption": "Edge storage requires quantum-resistant encryption to protect against future attacks, ensuring data security in vulnerable, distributed deployments without hindering performance."
+  }
+]
