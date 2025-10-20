@@ -250,7 +250,8 @@ if __name__ == "__main__":
  * 对应Python版本的test_api_client.py
  */
 
-const API_BASE_URL = "http://10.3.35.21:8004"
+// API基础URL - 使用代理路径避免CORS问题
+const API_BASE_URL = process.env.NODE_ENV === 'development' ? '/api' : 'http://10.3.35.21:8004'
 
 /**
  * 上传PDF文件并进行分析
@@ -287,6 +288,10 @@ export async function analyzePaper(pdfFile, onProgress = null) {
     const response = await fetch(`${API_BASE_URL}/paper_vis`, {
       method: 'POST',
       body: formData,
+      mode: 'cors', // 明确指定CORS模式
+      headers: {
+        // 不设置Content-Type，让浏览器自动设置multipart/form-data
+      },
       // 注意：fetch不支持进度回调，这里我们模拟进度
     })
 
@@ -329,14 +334,20 @@ export async function analyzePaper(pdfFile, onProgress = null) {
   } catch (error) {
     console.error('❌ 论文分析失败:', error)
     
+    // 检查是否是CORS错误
+    let errorMessage = error.message || '未知错误'
+    if (error.message.includes('CORS') || error.message.includes('Failed to fetch')) {
+      errorMessage = '跨域请求被阻止，请检查后端服务器CORS配置或使用代理'
+    }
+    
     // 显示错误进度
     if (onProgress) {
-      onProgress(0, `分析失败: ${error.message}`)
+      onProgress(0, `分析失败: ${errorMessage}`)
     }
 
     return {
       success: false,
-      error: error.message,
+      error: errorMessage,
       data: null
     }
   }
@@ -366,7 +377,7 @@ export async function checkServerHealth() {
  * @param {Function} onProgress - 进度回调函数
  * @param {number} duration - 预计总时长（秒）
  */
-export function simulateProgress(onProgress, duration = 30) {
+export function simulateProgress(onProgress) {
   let progress = 0
   const interval = setInterval(() => {
     progress += Math.random() * 10
